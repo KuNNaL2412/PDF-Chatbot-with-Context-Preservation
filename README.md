@@ -24,4 +24,3 @@ Consider implementing a caching mechanism to remember previously uploaded PDF do
  
 Ater task is completed, please post the app link, github link of it and a loom video recording of the working of the app in the collaboration channel.
  
-You can used this attached pdf for testing your app.
