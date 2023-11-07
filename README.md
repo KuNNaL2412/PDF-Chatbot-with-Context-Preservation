@@ -1,6 +1,6 @@
 # PDF-Chatbot-with-Context-Preservation
 
-## Task 1- Development of a Multi-Turn Streamlit Chatbot app for PDF-Based Q&A with Context Preservation.
+## Development of a Multi-Turn Streamlit Chatbot app for PDF-Based Q&A with Context Preservation.
 
 ## Problem Statement:
  
